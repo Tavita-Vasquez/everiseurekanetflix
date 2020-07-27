@@ -1,4 +1,4 @@
-#Application Name
+#Application Name.
 spring:
   application:
     name: eureka-server
